@@ -39,7 +39,7 @@ Este notebook apresenta uma solução baseada em dados para identificar e entend
 
 ## Como executar
 
-1. Abra o Notebook [KYF-FURIA]() e execute as células na ordem.
+1. Abra o Notebook [KYF-FURIA](https://colab.research.google.com/drive/1O1XE2oXjp0W5tzWvGT2ar761yCvIcptq?usp=sharing) e execute as células na ordem.
 
 ## Arquivos
 
